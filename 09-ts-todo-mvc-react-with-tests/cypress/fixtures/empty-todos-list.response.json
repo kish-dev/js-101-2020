@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "id": "123",
+    "text": "Just todo",
+    "isDone": false
+  }
+]
